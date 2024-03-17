@@ -1,6 +1,6 @@
 # Ultralane
 
-Instant Private Crosschain Payments
+Ultrafast Private Crosschain Payments
 
 ## Problem Statement
 
